@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxalto100.github.io/readme-687uyg/sitemap.xml
